@@ -1,6 +1,6 @@
 package Projektmarktplatz;
 
-//Patty Test
+//Patty Test -> was soll des Paddy!!
 public class GUI {
 
 }
